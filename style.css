@@ -1,0 +1,17 @@
+.header-div{
+    background-color:lightgoldenrodyellow;
+    font-family: 'Caveat', cursive;
+}
+
+.main_div{
+    background-color:darkgrey;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+ .main_div button{
+    font-family: 'Satisfy', cursive;
+}
+
+.copy_right_footer{
+    font-family: 'Lobster Two', cursive;
+    background-color: beige;
+}
